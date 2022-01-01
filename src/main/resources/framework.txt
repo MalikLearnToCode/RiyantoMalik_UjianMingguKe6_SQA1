@@ -1,0 +1,6 @@
+browser=Chrome
+myusername=jakun1234511111
+email=jakunjampang11111@gmail.com
+password=1111111111
+loginmessage=Your session has expired because it has been over 60 minutes since your last login. Please log back in to continue.
+txtmyaccount=From your account dashboard you can view your recent orders, manage your shipping and billing addresses, and edit your password and account details.
